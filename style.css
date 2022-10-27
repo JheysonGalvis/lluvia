@@ -1,0 +1,19 @@
+body{
+    background-image: url(https://img.freepik.com/free-vector/watercolor-halloween-background_52683-43698.jpg?w=1380&t=st=1666831265~exp=1666831865~hmac=51714f595b52a49e943062c0f0523b75eb55d6f672d360bf9e1cf24a76f1c28a);
+    background-size: 2000px;
+}
+p{
+    font-size: 100px;
+    color:white;
+    background-color: pink;
+}
+h3{
+    font-size: 50px;
+    color: blue;
+    background-color: aquamarine;
+}
+h4{
+    font-size: 70px;
+    color: blueviolet;
+    background-color: coral;
+}
